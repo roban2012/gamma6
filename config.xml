@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="gb2312"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.rettera"
+        id        = "com.phonegap.ret"
         version   = "2.0.0">
     <name>Retter2012a</name>
 
     <description>
-       This is an app based on my BDD ideas. Open Source Only!
+       This is my apps with BDD ideas. Open Source Only! by Roban(jobnet@188.com)
     </description>
 
     <author email="jobnet@188.com">
-        Retter & Roban Team
+        Retter Team
     </author>
 
     <feature name="http://api.phonegap.com/1.0/device" />
