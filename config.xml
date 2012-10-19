@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="gb2312"?>
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.retter2012a"
+        id        = "com.phonegap.rettera"
         version   = "2.0.0">
     <name>Retter2012a</name>
 
