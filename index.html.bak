@@ -55,7 +55,7 @@
 <body bgcolor= "white" background= "" text="black" link="silver" alink="navy" vlink="">
 	<center>
 	<font size=5> Retter2012</font>
-	<a href= "img/icon1024dpi.png" title="点击看图"> <img src="img/icon96.png" alt="点击图片查看大图" border="5"> </a> 
+	<a href= "img/icon1024dpi.png" title="点击看图"> <img src="img/icon96dpi.png" alt="点击图片查看大图" border="5"> </a> 
 	
 	<form name="loginForm" onsubmit="return login()" action="home.html">
 		<font size=5> 请输入你的姓名：</font>
